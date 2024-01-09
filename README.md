@@ -13,3 +13,5 @@ Tech Stack
 - Room database
 - Glide
 - Calendar View
+
+##Instructions on how to setup and run the application
