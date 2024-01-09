@@ -24,13 +24,13 @@ Tech Stack
    Open the Java file associated with the main activity.
    Implement the logic for adding, deleting, and updating tasks.
    
-5.Test App:Create and run a virtual device or connect a physical Android device for testing.
+ 5.Test App:Create and run a virtual device or connect a physical Android device for testing.
 
-6.Debugging and TroubleShooting the errors.
+ 6.Debugging and TroubleShooting the errors.
 
-7.Add Persistence: If we want to store tasks persistently, consider using a data storage solution like Room or local database (such as SQLite).
+ 7.Add Persistence: If we want to store tasks persistently, consider using a data storage solution like Room or local database (such as SQLite).
 
-8.After this we can run our app.
+ 8.After this we can run our app.
 
 ## Output of the application
 ![output-1](https://github.com/karrisuchithareddy/ToDoList/assets/82659467/78d41620-6d6e-4b92-8fab-92269d5d6e76)
