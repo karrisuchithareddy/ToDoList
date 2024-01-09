@@ -20,7 +20,7 @@ Tech Stack
    Open Android Studio.
    Click on "Start a new Android Studio project."
 3. Design the User Interface:Use the XML layout files to design the user interface for to-do list app. We can use the visual editor in Android Studio.
-4.Implement the Functionality:
+4. Implement the Functionality:
    Open the Java file associated with the main activity.
    Implement the logic for adding, deleting, and updating tasks.
 5.Test App:Create and run a virtual device or connect a physical Android device for testing.
