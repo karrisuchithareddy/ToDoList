@@ -34,6 +34,7 @@ Tech Stack
 
 ## Output of the application
 ![output-1](https://github.com/karrisuchithareddy/ToDoList/assets/82659467/78d41620-6d6e-4b92-8fab-92269d5d6e76)
+
 ![output-2](https://github.com/karrisuchithareddy/ToDoList/assets/82659467/3f75ff41-4d9e-4af8-8329-87e6932ee386)
 ![output-3](https://github.com/karrisuchithareddy/ToDoList/assets/82659467/c1662bd2-1185-4c8c-9f27-60e7c09114f1)
 ![output-4](https://github.com/karrisuchithareddy/ToDoList/assets/82659467/114807b0-0fbd-4064-961c-008f545f122c)
