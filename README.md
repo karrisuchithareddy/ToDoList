@@ -14,4 +14,4 @@ Tech Stack
 - Glide
 - Calendar View
 
-##Instructions on how to setup and run the application
+## Instructions on how to setup and run the application
