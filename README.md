@@ -40,7 +40,15 @@ Tech Stack
 ![output-5](https://github.com/karrisuchithareddy/ToDoList/assets/82659467/53ef7e0d-23bc-4674-b5fa-eb2a7582eff7)
 ![output-6](https://github.com/karrisuchithareddy/ToDoList/assets/82659467/6169d7ff-2e3f-4df4-bc30-3476f7e9f426)
 
+Here, I have attached 6 output images.
+1st image describes, how our To Do List Application look at the time of opening without any tasks.
+2nd image is about adding a task where we can add title, description, time, date and any event on the particular day can be added.
+3rd image is about calendar where we can observe that small logo at the top right corner. It is used to add events of our own choice i.e, year, month and date. If we add any important event on particular day we can observe a blue coloured dot below that day in the calendar.
+4th image describes, task status as new, upcoming or completed. We can observe that in the right below corner of the task's text bar.
+5th image, we can observe that three dots which will work for deleting, updating or for marking as complete the tasks that we have assigned in our todo list.
+6th image is about notification which will be displayed in the application, if particular task is completed successfully for the day.
 
+By the end, we can get an alarm where we will be notified 10 minutes before the task's assigned time, so that we can remember the tasks easily and also we get an alarm sound at the assigned time as a remainder to check whether the task is completed or not.
 
 
 
